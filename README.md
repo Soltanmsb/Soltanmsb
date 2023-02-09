@@ -9,16 +9,30 @@
 
 - 🗂 All my projects are at <a href="https://githubub.com/Soltanmsb">GitHub.com/Soltanmsb</a>
 
-- <b>My Instagram </b> => <a href="http://instagram.com/Soltanmsb"> @Soltanmsb</a>
+- 👨‍💻 I am ready to cooperate with **interesting** projects
 
-- <b>My Twitter </b>=><a href="https://twitter.com/soltanmsb">  @Soltanmsb</a>
+<a href="http://t.me/source_killer">
+ <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://instagram.com/soltanmsb">
+ <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://instagram.com/soltanmsb">
+ <img alt="Twitter" src="https://img.shields.io/badge/Twitter-0084e0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="mailto:Soltanmsb@gmail.com">
+ <img alt="Telegram" src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 
-- <b>My Telegram </b>=><a href="http://t.me/source_killer">  T.Me/Source_killer</a>
-
-- <b>My Gmail </b>=><a href="mailto:Soltanmsb@gmail.com">  Soltanmsb@gmail.com</a>
  <hr>
 <center>
-        <td>
-            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Soltanmsb&show_icons=true&theme=react&hide_border=true" />
+
+ <td>
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/Soltanmsb" width="400px" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soltanmsb&langs_count=10&theme=react&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</td>
+         <td>
+            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Soltanmsb&show_icons=true&theme=react&hide_border=true" />         
         </td>
 </center>  

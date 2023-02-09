@@ -26,13 +26,14 @@
 
  <hr>
 <center>
-
  <td>
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/Soltanmsb" width="400px" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soltanmsb&langs_count=10&theme=react&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</td>
-         <td>
-            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Soltanmsb&show_icons=true&theme=react&hide_border=true" />         
-        </td>
+  <b>My GitHub Stats</b><br>
+  <a href="https://github.com/Soltanmsb" align="left">
+   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soltanmsb&langs_count=10&theme=react&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ </td>
+ <td>
+  <a href="https://github.com/Soltanmsb">
+    <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Soltanmsb&show_icons=true&theme=react&hide_border=true" />         
+  </a>
+ </td>
 </center>  

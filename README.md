@@ -1,5 +1,9 @@
 <h1 align="center">Hi 🖐, I'm MSB</h1>
 <h3 align="center">I'm a poor developer 😅</h3>
+<a href="https://github.com/soltanmsb">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=ffffff&background=FF52BC00&width=610&lines=Please%20follow%20my%20page.">
+</a>
+
 
 ![Profile views](https://gpvc.arturio.dev/Soltanmsb)
 
@@ -29,7 +33,7 @@
  <td>
   <b>My GitHub Stats</b><br>
   <a href="https://github.com/Soltanmsb" align="left">
-   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soltanmsb&langs_count=10&theme=react&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+   <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soltanmsb&langs_count=10&theme=react&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  </td>
  <td>
   <a href="https://github.com/Soltanmsb">

@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi ??, I'm MSB</h1>
+<h3 align="center">I'm a poor developer ??</h3>
 
-<!--
-**Soltanmsb/Soltanmsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/Soltanmsb)
 
-Here are some ideas to get you started:
+- 💪 Currently, I know **PHP - Bash - Python - arduino** languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am learning **C#** & **GO**
+
+- 🗂 All my projects are at <a href="https://githubub.com/Soltanmsb">GitHub.com/Soltanmsb</a>
+ 
+<center>
+        <td>
+            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Soltanmsb&show_icons=true&theme=react&hide_border=true" />
+        </td>
+</center>  

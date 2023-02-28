@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Soltanmsb)
 <h1 align="center">Hi 🖐, I'm MSB</h1>
-<h3 align="center">I'm a poor developer 😅</h3>
+<h3 align="center">I'm a noob developer 😅</h3>
 
 
 <a href="https://github.com/soltanmsb">
